@@ -1,0 +1,9 @@
+________               ________  
+\_____  \  _____ ______\_____  \ 
+ /  ____/ /     \\____ \ _(__  < 
+/       \|  Y Y  \  |_> >       \
+\_______ \__|_|  /   __/______  /
+        \/     \/|__|         \/
+
+A Soundcloud, Youtube, and Niconico mp3 downloader tool.
+Nightsanity (c) 2017
